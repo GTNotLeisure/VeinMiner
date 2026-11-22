@@ -1,5 +1,5 @@
 dependencies {
-    implementation('com.github.GTNewHorizons:NotEnoughItems:2.6.51-GTNH:dev')
+    implementation('com.github.GTNewHorizons:NotEnoughItems:2.8.175-GTNH:dev')
 }
 
 configurations.all {
